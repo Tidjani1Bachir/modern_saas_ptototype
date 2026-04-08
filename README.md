@@ -1,7 +1,7 @@
 <div align="center">
   <br />
         <a href="#" target="_blank">
-      <img src="https://github.com/Tidjani1Bachir/modern_saas_ptototype/blob/main/public/Screenshot_2024-11-07_14_28_40.png" alt="UI Showcase">
+      <img src="https://github.com/Tidjani1Bachir/modern_saas_ptototype/blob/main/public/brainwave.png.png" alt="UI Showcase">
         </a>
   <br />
 
